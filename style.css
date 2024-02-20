@@ -3,11 +3,38 @@
     padding: 0;
     margin: 0;
 }
+html {
+    font-size: 75%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header {
+    color: green;
+}
+#page-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.nav {
+
+}
 
 main {
     width: 100%;
-    height: 500px;
-    border: 10px solid grey;
+    height: 100%;
+    border: 10px solid green;
     padding: 5px 5px;
-    
+
+}
+
+h1 {
+    font-family: serif;
+}
+
+#video {
+    width: max-content;
+    height: ;
 }
